@@ -1,0 +1,30 @@
+body {margin: 0;
+}
+.Container{
+    
+    display: grid;
+    grid-template-columns: repeat(4,1fr); 
+    background-color:rgb(45, 49, 47);
+    text-align: center;
+    color: #daf5da;
+    
+
+}
+.innerContainer{
+    margin-top: 10px;
+    width: 95%;
+    background-color:rgb(2, 2, 2);
+    border-radius: 5px;
+    border: 2px yellow;
+    border: solid 2px red;
+   
+    
+}
+
+.innerContainer img{
+    width: 200px;
+    padding:20px;
+    text-align: center;
+    
+
+}
