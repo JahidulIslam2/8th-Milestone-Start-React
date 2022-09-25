@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.album-design{
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  background-color: blanchedalmond;
+  border: 1px solid lightsteelblue;
+  max-width: 80%;
+}
+

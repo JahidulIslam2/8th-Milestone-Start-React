@@ -1,0 +1,47 @@
+[
+  {
+    "_id": "632f1760c445a9aa427e428f",
+    "name": "Wallace Campbell",
+    "gender": "male",
+    "company": "GEOLOGIX",
+    "email": "wallacecampbell@geologix.com",
+    "phone": "+1 (818) 594-2525",
+    "address": "112 Gerritsen Avenue, Sanders, Puerto Rico, 6058"
+  },
+  {
+    "_id": "632f176055e1fe4706e8f792",
+    "name": "Merrill Fitzpatrick",
+    "gender": "male",
+    "company": "MATRIXITY",
+    "email": "merrillfitzpatrick@matrixity.com",
+    "phone": "+1 (877) 483-3162",
+    "address": "751 Arion Place, Inkerman, Connecticut, 578"
+  },
+  {
+    "_id": "632f17603b27c57859dea420",
+    "name": "Francisca Mullen",
+    "gender": "female",
+    "company": "DIGIGENE",
+    "email": "franciscamullen@digigene.com",
+    "phone": "+1 (998) 475-2815",
+    "address": "727 Saratoga Avenue, Avoca, Alabama, 3884"
+  },
+  {
+    "_id": "632f1760e70c4a3e6ef5f6a2",
+    "name": "Watkins Moon",
+    "gender": "male",
+    "company": "EARBANG",
+    "email": "watkinsmoon@earbang.com",
+    "phone": "+1 (840) 427-3625",
+    "address": "644 Whitty Lane, Hollins, Washington, 2082"
+  },
+  {
+    "_id": "632f17602d7fde4edcb141e5",
+    "name": "Mattie Howe",
+    "gender": "female",
+    "company": "MULTIFLEX",
+    "email": "mattiehowe@multiflex.com",
+    "phone": "+1 (941) 409-3549",
+    "address": "785 Miller Place, Talpa, Maine, 3936"
+  }
+]

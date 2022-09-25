@@ -1,0 +1,13 @@
+.card{
+    border: 1px solid red;
+    padding: 50px;
+    width: 300px;
+    margin-left: 20px;
+    background-color: aliceblue;
+    align-content: center;
+    margin-top: 10px;
+}
+h1{
+    color: red;
+}
+

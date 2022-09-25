@@ -1,0 +1,11 @@
+.container-main{
+    color: chocolate;
+    border: 1px solid red;
+    margin: 40px;
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    padding: 10px;
+    max-width: 30%;
+    height: auto;
+    align-content: center;
+}
