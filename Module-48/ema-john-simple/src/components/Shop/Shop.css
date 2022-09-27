@@ -1,0 +1,19 @@
+.shop{
+
+   display: grid;
+   grid-template-columns: 4fr 1fr;
+}
+
+.cart-container{
+    
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin-top: 100px;
+    margin-left: 30px;
+}
+
+.order-summery{
+    border-radius: 3 px;
+    background: #FF99004D;
+    width: 264px;
+}
