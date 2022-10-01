@@ -1,0 +1,40 @@
+
+.player-cart{
+    border: 1px solid rgb(26, 25, 25);
+    box-shadow: 5px 2px 5px 5px rgb(36, 38, 39);
+    height:500px;
+    width: 320px;
+    padding: 10px;
+    margin: 10px;
+    
+
+}
+
+.img-player{
+    height:300px ;
+    width: 100%;
+    
+}
+
+.description{
+padding: 2px;
+margin: 0;
+}
+
+.btn-group{
+    height: 30px;
+    width: 150px;
+    margin: 3px;
+    color: darkblue;
+    border-radius: 3px;
+    border: none;
+}
+
+.btn-group:hover{
+    background-color:rgb(171, 171, 126) ;
+}
+
+.btn-group:active{
+    background-color: rgb(27, 15, 15);
+}
+

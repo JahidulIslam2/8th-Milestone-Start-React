@@ -1,0 +1,51 @@
+.container{
+
+    display: grid;
+    grid-template-columns: 7fr 2fr;
+    gap: 4px ;
+    margin: 25px;
+}
+
+.container-main{
+    text-align: center;
+}
+
+.container-cart{
+    border: 1px red solid;
+}
+
+.input-src{
+    height: 25px;
+    width: 30%;
+    background-color:rgb(222, 215, 215);
+    
+}
+
+.btn-name{
+    height: 30px;
+    background-color: cadetblue;
+    border-radius: 2px ;
+    border: none;
+}
+.btn-name:hover{
+    color: white;
+}
+.btn-name:active{
+    background-color: black;
+}
+
+.player-card{
+    padding: 4px;
+}
+
+.btn-delete{
+    border: none;
+    background-color:burlywood;
+}
+
+.btn-delete:active{
+    background-color: black;
+    padding: 0;
+    
+
+}
