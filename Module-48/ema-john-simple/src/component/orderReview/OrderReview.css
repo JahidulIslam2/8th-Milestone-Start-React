@@ -1,0 +1,49 @@
+.order-review img{
+    height: 91px;
+    width: 91px;
+}
+
+.order-review{
+    display: flex;
+    border: 1px solid rgb(147, 145, 145);
+    width: 571px;
+    margin: 10px auto;
+    padding: 8px;
+    border-radius: 2px;
+}
+.oReview-details{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+}
+
+.detail p{
+    margin: 2px;
+}
+.detail p span{
+    color: red;
+}
+.name{
+    font-weight: lighter;
+    font-weight: bold;
+}
+
+.btn{
+    height: 53px;
+    width: 53px;
+    border-radius: 50%;
+    border: none;
+    background-color: rgb(230, 190, 190);
+}
+.btn:hover{
+    background-color: rgb(183, 165, 165);
+}
+.btn:active{
+    background-color: rgb(146, 142, 142);
+}
+
+.btn-icon{
+    height: 20px;
+    color: rgba(255, 0, 0, 0.756);
+}

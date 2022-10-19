@@ -1,11 +1,13 @@
 .header{
     height: 80px;
+    padding: 10px;
     background-color: black;
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding-left: 50px;
     padding-right: 50px;
+    box-shadow: 0px 5px 5px 0px rgb(56, 53, 53);
 
 }
 
@@ -19,12 +21,12 @@
 
 }
 
-.header a:hover{
+/* .header a:hover{
     background-color: rgb(19, 19, 51);
     padding: 10px;
     border-radius: 3px;
     color: rgb(153, 153, 188);
-}
+} */
 
 @media screen and (max-width: 500px) {
     /* .header a{
