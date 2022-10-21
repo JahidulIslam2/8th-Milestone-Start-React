@@ -6,6 +6,10 @@ import Order from './component/order/Order';
 import About from './component/about/About';
 import Shop from './components/Shop/Shop';
 import { DataLoad } from './component/Api/DataLoad';
+import Login from './components/login/Login';
+import SignUp from './components/singup/SignUp';
+import Shipping from './components/shipping/Shipping';
+import AuthRequired from './authRequired/AuthRequired';
 function App() {
   const routes = createBrowserRouter([
     {
@@ -29,7 +33,19 @@ function App() {
       {
         path: "about",
         element: <About></About>
-      }
+      },
+      {
+        path: "login",
+        element:<Login></Login>
+      },
+      {
+        path:"signUp",
+        element:<SignUp></SignUp>
+      },
+      {
+        path:"shipping",
+        element:<AuthRequired><Shipping></Shipping></AuthRequired>
+      },
     ]
       },
   ])

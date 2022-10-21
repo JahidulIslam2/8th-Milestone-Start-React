@@ -1,0 +1,78 @@
+
+.form-container {
+
+    box-sizing: border-box;
+    width: 500px;
+    height: 600px;
+    margin: 50px auto;
+    background: #FFFFFF;
+    border: 1px solid #95A0A7;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+    padding-left: 25px;
+}
+
+
+.title {
+    text-align: center;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+    letter-spacing: 0.0025em;
+    color: #2A414F;
+}
+
+.form-control label {
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    letter-spacing: 0.0015em;
+    color: #2A414F;
+
+
+}
+
+.form-control input {
+    width: 415px;
+    height: 55px;
+    border: 1px solid #95A0A7;
+    border-radius: 5px;
+    font-size: 1.5em;
+    padding-left: 10px;
+
+}
+
+.form-control {
+    width: 415px;
+    height: 84px;
+    margin-bottom: 20px;
+}
+
+.login-btn {
+    width: 415px;
+    height: 55px;
+    margin-top: 44px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 25px;
+    letter-spacing: 0.0015em;
+    color: #0E161A;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(239, 215, 179);
+}
+
+.login-btn:hover{
+    background-color: rgb(227, 201, 163);
+}
+
+.login-btn:active{
+    color: green;
+}

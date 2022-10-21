@@ -35,8 +35,11 @@ const Order = () => {
             <div className='order-summery'>
                 <Cart cart={cart} clearCart={clearCart}>
                     <Link to={'/shop'}>
-                        <button type="submit">Review Item</button>
+                        {/* <button type="submit">Review Item</button> */}
                     </Link>
+                    <Link to="/shipping"><button>
+                    Proceed Shipping
+                        </button></Link>
                 </Cart>
             </div>
         </div>

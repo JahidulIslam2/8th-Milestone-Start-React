@@ -20,6 +20,22 @@
     font-weight: 400px;
 
 }
+.text-email{
+    color: rgb(14, 93, 14);
+    border: 1px solid rgb(36, 34, 34);
+    width: 250px;
+    font-style: italic;
+}
+.logOut-btn{
+    height: 30px;
+    width: 70px;
+    background-color: #8e0005;
+    color: white;
+    border-radius: 5px ;
+    margin-left: 30px;
+    
+
+}
 
 /* .header a:hover{
     background-color: rgb(19, 19, 51);
